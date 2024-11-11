@@ -1,0 +1,81 @@
+# Archivos y carpetas de compilación
+bin/
+obj/
+debug/
+release/
+
+# Configuración de Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales y de caché
+*.pidb
+*.pdb
+*.tmp
+*.log
+*.sln.docstates
+*.log
+*.cache
+*.moc
+*.ilk
+
+# Archivos de compilación de paquetes
+*.dll
+*.exe
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# Archivos de configuración de IDE
+*.ide/
+.idea/
+*.dotSettings.user
+*.sln.iml
+
+# Archivos de dependencias y paquetes
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Configuración local de usuario
+*.config
+*.env
+*.props
+*.local
+
+# Archivos de configuración de Git
+.gitignore
+.gitattributes
+.gitkeep
+
+# Archivos de publicación y despliegue
+.publish/
+out/
+dist/
+Debug/
+Release/
+
+# Archivos de auto-generación de Visual Studio
+GeneratedFiles/
+ServiceFabricBackup/
+ipch/
+objd/
+TestResults/
+TestOutput/
+
+# Configuración de sistema y archivos ocultos de OS
+*.DS_Store
+Thumbs.db
+*.swp
+*~ 
+._*
+
+# Archivos de Logs
+*.log
